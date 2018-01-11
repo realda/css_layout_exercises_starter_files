@@ -1,0 +1,59 @@
+.WholeBlock {
+    width: 800px;
+    height: 500px;
+    font-size: 0;
+}
+
+.SubBlock1{
+    width: 800px;
+    height: 200px;
+    font-size: 0;
+    border: 1px solid black;
+}
+
+.BlockGreen {
+    background-color: darkgreen;
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.BlockBlue{
+    background-color: royalblue;
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.SubBlock2{
+    width: 800px;
+    height: 300px;
+    font-size: 0;
+    border: 1px solid black;
+}
+
+.BlockYellow{
+    background-color: darkorange;
+    display: inline-block;
+    width: 33.33%;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.BlockGray {
+    background-color: darkgray;
+    display: inline-block;
+    width: 33.33%;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.BlockBlack {
+    background-color: black;
+    display: inline-block;
+    width: 33.33%;
+    height: 300px;
+    border: 1px solid black;
+}
